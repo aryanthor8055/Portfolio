@@ -22,7 +22,7 @@ const About = () => {
                 <p className='a-desc'>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias reiciendis nisi, tenetur unde asperiores veritatis laudantium quae repudiandae fugit accusantium obcaecati corrupti consectetur?
                 </p>
-                <a href='https://bit.ly/Aryan-CV' target='_blank'>
+                <a href='https://bit.ly/Aryan-CV' target='_blank' rel="noreferrer">
                     <button className='a-btn'>Download Resume</button>
                 </a>
             </div>
