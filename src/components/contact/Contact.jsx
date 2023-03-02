@@ -38,12 +38,15 @@ const Contact = () => {
                         </div>
                         <div className="c-info-item">
                             <img src={Address} alt='' className='c-icon' />
-                            Krishna kunj Avas Vikas Hathras-204101
+                            Hathras-204101 (Uttar Pradesh), India
                         </div>
 
                     </div>
                 </div>
                 <div className="c-right">
+                    <p className="c-desc">
+                        <b>What’s your story?</b> Get in touch.
+                    </p>
                     <form ref={formRef} onSubmit={handleSubmit}>
                         <input style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder='Name' name='user_name' />
                         <input style={{ backgroundColor: darkMode && "#333" }} type="text" placeholder='Subject' name='user_subject' />
