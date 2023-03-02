@@ -13,20 +13,6 @@ export const products = [
         link: '',
         Des: 'Dreamland is a digital platform, designed to assist users with buying, selling and renting properties. This includes a comprehensive property listing of available properties for sale or rent, including their descriptions, pictures and location. Created using React.js, Firebase and Bootstrap 5.'
     },
-    {
-        id: 2,
-        name: 'Dreamland',
-        img: 'https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/617fffdcfa159082ea3ef6a3_t5Gb3iMLNTSQEl07jUIJNHT6qCUftSKhE5JzlQMiCjtiYqxu-QXbLjxErDAKkU-VunGzx-pOkOhdAv5o2hRPNO4KTmdXHALYvzJSUGGPFca0RckUNbINFpBrbUlNm-Y-cBpIt7AB.jpeg',
-        link: '',
-        Des: 'Dreamland is a digital platform, designed to assist users with buying, selling and renting properties. This includes a comprehensive property listing of available properties for sale or rent, including their descriptions, pictures and location. Created using React.js, Firebase and Bootstrap 5.'
-    },
-    {
-        id: 2,
-        name: 'Dreamland',
-        img: 'https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/617fffdcfa159082ea3ef6a3_t5Gb3iMLNTSQEl07jUIJNHT6qCUftSKhE5JzlQMiCjtiYqxu-QXbLjxErDAKkU-VunGzx-pOkOhdAv5o2hRPNO4KTmdXHALYvzJSUGGPFca0RckUNbINFpBrbUlNm-Y-cBpIt7AB.jpeg',
-        link: '',
-        Des: 'Dreamland is a digital platform, designed to assist users with buying, selling and renting properties. This includes a comprehensive property listing of available properties for sale or rent, including their descriptions, pictures and location. Created using React.js, Firebase and Bootstrap 5.'
-    },
 
 
 ]

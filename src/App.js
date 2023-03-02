@@ -7,6 +7,7 @@ import ProductList from "./components/productList/ProductList";
 import Toggle from "./components/toggle/Toggle";
 import { ThemeContext } from "./context";
 
+
 function App() {
   const theme = useContext(ThemeContext)
   const darkMode = theme.state.darkMode
