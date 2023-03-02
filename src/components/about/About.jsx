@@ -17,10 +17,11 @@ const About = () => {
                     About Me
                 </h1>
                 <p className='a-sub'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, quo fugit.
+                    Passionate about using technology to solve real-world problems
                 </p>
                 <p className='a-desc'>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestias reiciendis nisi, tenetur unde asperiores veritatis laudantium quae repudiandae fugit accusantium obcaecati corrupti consectetur?
+                    I am an aspiring web developer with a strong passion for creating
+                    innovative and <br /> user-friendly web applications.I have developed a number of projects that demonstrate my skills and knowledge in MERN STACK technology. I am dedicated to ongoing learning and staying up-to-date with the latest trends and technologies in the field.
                 </p>
                 <a href='https://bit.ly/Aryan-CV' target='_blank' rel="noreferrer">
                     <button className='a-btn'>Download Resume</button>

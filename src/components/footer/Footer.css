@@ -1,0 +1,9 @@
+ footer {
+     display: flex;
+     background: #59b256;
+     padding: 15px 23px;
+     color: #fff;
+     align-items: center;
+     justify-content: center;
+     /* border: 2px solid black; */
+ }
