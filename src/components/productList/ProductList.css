@@ -39,3 +39,21 @@
         display: none;
     }
 }
+
+@media screen and (max-width:360px) {
+    .pl {
+        padding-top: 50px;
+    }
+
+    .pl-texts {
+        width: 100%;
+    }
+
+    .pl-desc {
+        display: none;
+    }
+
+
+
+
+}

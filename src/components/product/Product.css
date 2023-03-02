@@ -49,10 +49,29 @@
 
     .p {
         width: 40%;
-        height: 20vh;
+        height: auto;
     }
 
     .p-name {
         font-size: 10px;
     }
+
+
+
+}
+
+@media screen and (max-width:360px) {
+
+    .p {
+        width: 100%;
+        height: auto;
+    }
+
+    .p-name {
+
+        font-size: 12px;
+    }
+
+
+
 }

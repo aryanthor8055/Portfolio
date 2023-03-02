@@ -10,7 +10,7 @@ const ProductList = () => {
                 <h1 className='pl-title'>
                     Create & inspire.It's Aryan
                 </h1>
-                <p>
+                <p className='pl-desc'>
                     As per my Knowledge and interest,I created my Projects <br /> related to my Technologies.
                 </p>
             </div>
