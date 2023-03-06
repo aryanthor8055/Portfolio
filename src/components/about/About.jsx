@@ -23,7 +23,7 @@ const About = () => {
                     I am an aspiring web developer with a strong passion for creating
                     innovative and <br /> user-friendly web applications.I have developed a number of projects that demonstrate my skills and knowledge in MERN STACK technology. I am dedicated to ongoing learning and staying up-to-date with the latest trends and technologies in the field.
                 </p>
-                <a href='https://bit.ly/Aryan-CV' target='_blank' rel="noreferrer">
+                <a href='https://drive.google.com/file/d/1Uc_0b65aqW9m2ttsB5K-5msBee2BZiDy/view?usp=sharing' target='_blank' rel="noreferrer">
                     <button className='a-btn'>Download Resume</button>
                 </a>
             </div>

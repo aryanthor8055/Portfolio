@@ -10,9 +10,15 @@ export const products = [
         id: 2,
         name: 'Dreamland',
         img: 'https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/617fffdcfa159082ea3ef6a3_t5Gb3iMLNTSQEl07jUIJNHT6qCUftSKhE5JzlQMiCjtiYqxu-QXbLjxErDAKkU-VunGzx-pOkOhdAv5o2hRPNO4KTmdXHALYvzJSUGGPFca0RckUNbINFpBrbUlNm-Y-cBpIt7AB.jpeg',
-        link: '',
+        link: 'https://dreamland-omega.vercel.app/',
         Des: 'Dreamland is a digital platform, designed to assist users with buying, selling and renting properties. This includes a comprehensive property listing of available properties for sale or rent, including their descriptions, pictures and location. Created using React.js, Firebase and Bootstrap 5.'
     },
-
+    {
+        id: 3,
+        name: 'Friendsbook',
+        img: 'http://www.cybertieup.com/img/social-media-promotion-pg.webp',
+        link: 'https://friendsbook-frontend-jmyrqwzwd-aryanthor8055.vercel.app/',
+        Des: "Facebook Clone is a valuable tool for those who want to learn and implement new technologies. Our platform provides some similar features to Facebook, including authentication, user profiles, update profile, create posts, like, comment, see other's profile,etc. By studying and implementing the technologies used in our Friendsbook, I can gain valuable experience in software development and web design."
+    },
 
 ]
