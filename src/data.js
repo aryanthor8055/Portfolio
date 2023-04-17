@@ -15,6 +15,13 @@ export const products = [
     },
     {
         id: 3,
+        name: 'Moviemimic',
+        img: 'https://www.androidauthority.com/wp-content/uploads/2019/06/Tubi-best-movie-apps-for-Android.jpg',
+        link: 'https://movie-mimic.vercel.app/',
+        Des: "About Moviemimic is a Netflix clone project aims to create a video streaming platform similar to Netflix. The project would require building a front-end user interface, a back-end server, and a database to store user information and streaming data."
+    },
+    {
+        id: 4,
         name: 'Friendsbook',
         img: 'http://www.cybertieup.com/img/social-media-promotion-pg.webp',
         link: 'https://friendsbook-frontend-jmyrqwzwd-aryanthor8055.vercel.app/',
